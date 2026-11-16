@@ -1,0 +1,7 @@
+# Daftar streamer yang dicek oleh --cari (kanal YouTube, satu per baris).
+# Salinan Anda ada di ~/klip-gta/streamer.txt: tambah atau hapus di sana.
+# Klip hanya streamer yang mengizinkan klip (program clipper resmi atau izin langsung).
+@windahbasudara
+@BrandoChillGames
+@MiawAug
+@JessNoLimit
